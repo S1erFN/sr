@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: #5F9EA0;
+}
+.link-header {
+    color: white;
+    font-size: 20px;
+    font-family: helvetica;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 20px;
+    transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    background-color: black;
+    padding: 4px 30px;
+}
